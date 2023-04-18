@@ -1,2 +1,2 @@
-# second-site
-My second site after styling
+# Second-Site
+My CSS style website
